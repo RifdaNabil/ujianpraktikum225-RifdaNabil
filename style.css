@@ -1,0 +1,86 @@
+body {
+    background-color: #FFFDF4;
+    font-family: 'Montserrat', sans-serif;
+    color: #545454;
+  }
+  .navbar {
+    background-color: #FFF085;
+    font-weight: 600;
+  }
+  .navbar-brand{
+    font-style: italic;
+    color: #F16767 !important;
+  }
+  .nav-link {
+    color: #8d6b34 !important;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+  .nav-link:hover {
+    color: rgb(150, 150, 150) !important;
+  }
+  .btn-kb {
+    background-color: #27548A ;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 6px 16px;
+    border: none;
+    margin-left: 10px;
+  }
+  .btn-kb:hover {
+    background-color: rgb(177, 173, 170);
+  }
+  table {
+    width: 50%;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+th {
+    background-color: rgb(238, 215, 198);
+    color: white;
+}
+td, th {
+    padding: 12px;
+    text-align: left;
+}
+    /* Buat sudut card membulat */
+.card {
+  border-radius: 2rem;
+}
+h1{
+    color:#27548A ;
+}
+
+/* Warna dan gaya judul postingan */
+.post-title a {
+  color: #27548A;
+  font-weight: bold;
+}
+.post-title a:hover {
+  color: #122842;
+  text-decoration: underline;
+}
+
+/* Warna dan gaya link 'Baca Selengkapnya' */
+.read-more {
+  color: #183B4E;
+  font-weight: 200;
+  text-decoration: none;
+    font-size: 0.8rem;
+}
+.read-more:hover {
+  color: #0c1d26;
+  text-decoration: underline;
+}
+.badge {
+  font-size: 0.8rem;
+  padding: 6px 10px;
+  border-radius: 12px;
+}
+
+
+
+
+
+  
